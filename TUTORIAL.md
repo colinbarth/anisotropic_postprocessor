@@ -41,7 +41,7 @@ Install `anisotropic_postprocessor` into the same Python environment (or Google 
 pip install -e /path/to/anisotropic_postprocessor
 
 # Or directly from GitHub (e.g. in Google Colab)
-pip install git+https://github.com/<your-username>/anisotropic_postprocessor.git
+pip install git+https://github.com/colinbarth/anisotropic_postprocessor
 ```
 
 Verify available built-in profiles in Python:
