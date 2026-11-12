@@ -1,0 +1,30 @@
+{
+  "name": "Generic Continuous Carbon Fiber PA",
+  "filament_type": "CF-PA",
+  "filament_vendor": "Generic",
+  "filament_diameter": 1.75,
+  "filament_density": 1.40,
+  "filament_cost": 180.0,
+  "nozzle_temperature": 250.0,
+  "nozzle_temperature_initial_layer": 250.0,
+  "nozzle_temperature_range_low": 240.0,
+  "nozzle_temperature_range_high": 270.0,
+  "bed_temperature": 70.0,
+  "bed_temperature_initial_layer": 70.0,
+  "chamber_temperature": 45.0,
+  "extrusion_multiplier": 1.0,
+  "pressure_advance": 0.0,
+  "max_volumetric_speed": 5.0,
+  "fan_min_speed": 0.0,
+  "fan_max_speed": 20.0,
+  "close_fan_the_first_x_layers": 2,
+  "auxiliary_fan_speed": 0.0,
+  "retract_length": 0.0,
+  "retract_speed": 1200.0,
+  "unretract_speed": 1200.0,
+  "z_hop": 1.0,
+  "extra": {
+    "continuous_fiber": true,
+    "cut_offset_mm": 15.0
+  }
+}
