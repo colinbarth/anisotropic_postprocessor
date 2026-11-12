@@ -17,7 +17,7 @@ A readable, dependency-light G-code postprocessor and 3D machine simulator for a
 ## Installation (Google Colab / Local)
 
 ```bash
-pip install git+https://github.com/<your-username>/anisotropic_postprocessor.git
+pip install git+https://github.com/colinbarth/anisotropic_postprocessor.git
 ```
 
 ## Quick Start with `path_optimizer`
